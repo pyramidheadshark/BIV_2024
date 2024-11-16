@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 *.zip
-models/
+models/onnx_model/model.onnx
 tmp*
