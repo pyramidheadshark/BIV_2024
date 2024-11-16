@@ -1,0 +1,8 @@
+datasets
+onnxruntime
+optimum
+onnx
+pandas
+scikit-learn
+torch
+transformers
