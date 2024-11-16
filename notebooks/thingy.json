@@ -1,0 +1,1002 @@
+[
+    {
+        "description": "Возврат денежных средств по договору займа №373 от 26.02.2024г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата за Кружка Пластишка детская в ассортименте 180мл по счету 89036727076431687439 от 2023.06.23 Сумма 2440,00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Размещение рекламы по счету 00407363845372991618 от 04.08.2024; Договор №А-00795/35 от 2026-11-22",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Предоставление кредита по договору №А-03828/92 от 25.03.2023 (приобретение товаров длительного пользования)",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "За аренду машины/автомобиля по договору №246 от 22.05.2028",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата минеральной питьевой воды по счету 48827801414188975933 от 15.10.2024г Сумма 7300-00 без учета НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог №Е04249/42 от 17.06.2024 г., согл. Сч 0202-27 от 24.05.2024г. оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата по сч. 270 от 21.06.2026 г., за транспортные услуги НДС не облагается.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Предоставление кредита по договору №Г-02120/57 от 07/02/2025г. (приобретение транспортного средства)",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Счет на оплату № 0522 от 23/11/2027г.г.МКР для фильтрпресса. Сумма 48400,00В т.ч. НДС(20%) 8066,66",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Средство Grass Azelit чистящее 600мл по счету 94521244041068867191 от 02/06/2024 Сумма 3380,00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по Договору 84.105863-АА от 13/09/2025за бухгалтерское сопровождение в счет задолженности",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Ананасы Красная цена кольца в сиропе 580мл по счету 88776387168049625664 от 29.09.2026 Сумма 4070.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору №09-01318Б от 08/04/2027г., счету 0477 от 08/04/2027г. за 'Дымовские колбасы'.Сумма 3890000-00 В т.ч. НДС 20% 648333-33",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата гос. пошлины",
+        "mislead_category": "TAX",
+        "predicted_category": "TAX"
+    },
+    {
+        "description": "За покупку авиабилетов г. Чита - г. Тольятти по договору №19-01431Е от 12/09/2026",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За доставку водным транспортом из г. Рязань в г. Хасавюрт по договору №34-03771Б от 01 янврая 2023 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Доплата по счету №19-03907 от 25 февраля 2024 г. аренда помещения в марта 2024 г. Договор №87А-04316 от 22/09/2027",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата по договору №9-04352/60 от 26.10.2027г частичная оплата за картонСумма 37600.00В тч НДС(20%) 6266.66",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Яблоко сезонное по счету 54428002044672358860 от 28.01.2028 Сумма 2900,00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору процентного займа №А03464 от 16 июля 2023. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "НДС от Комиссия АКБ 'Первый банк' (АО) за изготовление по запросу клиента ведомости банковского контроля",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата по счету 0807,0808,0809 от 04/11/2024г. (в рамках договора финансовой аренды №Г01199 от 29.10.2023). В т.ч. НДС(20%) 830000,0",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата за кофе в зернах по счету 18142049762802277973 от 22 марта 2028г Сумма 2260.00 в т.ч. НДС 20% 376.66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Предоставление денежных средств по договору займа №82-01492 от 09.06.2024г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "оплата по счёту № 0625 от 19/03/2023г. за транспортные услугиСумма 800000-00В т.ч. НДС(20%) 133333-33",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по договору №86-04785 от 25.03.2024г, счету 0762 от 25.03.2024г за мясные деликатесы. Сумма 41600.00 В т.ч. НДС 20% 6933.33",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Комиссия за срочные платежи в валюте Российской Федерации на счета в другие кредитные организации",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата по Договору №Е02741 от 14 декабря 2028г за акты 0071 и 0207 (транспортные услуги)Сумма 44000,00В т.ч. НДС(20%) 7333,33",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по догвору купли-продажи №27В-01099 от 15.01.2028г за виллу №25 по адресу г. Новошахтинск, Социалистическая ул., д. 5",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата за запасные части для оборудования по счету №0450 от 11/02/2024г.; Договор №22-02107Е от 2025-10-21",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата основного долга за период с 18.02.2025г. по 24/03/2025 по Договору №20-00126 от 24.12.2024 г. с ОАО 'Второй банк'",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по счету #0563 от 2024.12.09 за яхту/катер Midnight Express FL06354",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "За бронирование отеля в г. Самара по договору №Б04217/82 от 11 сентября 2026",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Выплата на содержание родных детей",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата по акту сверки б/н от 02.10.2024 (в рамках договора лизинга №22-01534 от 29 января 2023 г.). В т.ч. НДС(20%) 831666,66",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата за игристое вино Asti по договору №02158Г от 11.01.2027 .Сумма 1000000.00 В т.ч. НДС 20% 166666.66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата штарфа",
+        "mislead_category": "TAX",
+        "predicted_category": "TAX"
+    },
+    {
+        "description": "Оплата по товарной накладной 0007 от 28.09.2026г. за конфеты 'Алёнка'.Сумма 43900.00 В т.ч. НДС 20% 7316.66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "За доставку водным транспортом из г. Северодвинск в г. Нижнекамск по договору №А04021/68 от 14 мая 2027г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по Счету 0042 от 13 июля 2027 за возмещаемые расходы Сумма 6700-00 в том числе НДС(20%) 1116-66",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Комиссия за справку о наличии (отсутствии) ссудной задолженности по письменному запросу клиента",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Лечение по договору №А02339/93 от 08.09.2027 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За медицинское обслуживание по договору №5-00127/80 от 14 ноября 2025г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Протеиновый батончик Snaq Fabriq арахис и карамель глазированный 50г по счету 73999384022016066682 от 18/01/2026г. Сумма 4240.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оказание прочих услуг",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за консультирование в сфере информационных технологий по договору №060 от 21.07.2026 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Возмещение расходов на страхование ОСАГО по договору лизинга №09А-04864 от 23.09.2024 в сумме 32100.00, без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата по договору лизинга №А02688 от 26.03.2024г., акт приема-передачи 0534 от 25/03/2024. В т.ч. НДС(20%) 666666-66",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата налоогв",
+        "mislead_category": "TAX",
+        "predicted_category": "TAX"
+    },
+    {
+        "description": "Оплата по договору №А01048 от 11.12.2027 г., счету 0462 от 11.12.2027 г. за \"Дымовские колбасы\".Сумма 3520000-00 В т.ч. НДС 20% 586666-66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог б/н от 12.12.2023г, согл. Сч 0405-27 от 19 декабря 2024 г. оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Пополнение оборотных средств. НДС не облагается.",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за Крем чистящий Cif Актив Лимон универсальный для кухни и ванной 100% удаление грязи 500мл по счету 18116935375421832301 от 2028-08-04 Сумма 770-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за консультирование в сфере информационных технологий по договору №347 от 06.09.2025 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата Дог №Г-02857/64 от 26.11.2024г, согл. Сч 0348-27 от 29.03.2024 г. оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за 500 штук новогодних шоколадных подарков по счету 0654 от 11.02.2024г. .Сумма 44100,00 В т.ч. НДС 20% 7350,0",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Сковорода Гардарика Гранит c утолщенным дном из лиотго алюминия 24см по счету 96251928590783106579 от 15.08.2025г. Сумма 4900.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "оплата по договору №73-03558Б от 20 марта 2024 за ЖКТМСумма 4900000,00В т.ч. НДС(20%) 816666,66",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за нут,сафлор по счету 0365,0366,0367 от 09 сентября 2024 г. .Сумма 4210000,00 В т.ч. НДС 20% 701666,66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "За оказание услуг по договору №Е-03859/53 от 31/01/2024г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за ж/д, авиабилеты и проживание по счету 12620150964472105940 от 13 ноября 2027 на основании договора №Б01914/27 от 09 сентября 2026",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за насосы по договору №66Е-00291 от 31/08/2023 (частичная оплата).Сумма 4960000-00В тч НДС(20%) 826666-66",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору процентного займа №68-00611 от 2024-03-25. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по счету #0713 от 03.11.2026 г. за яхту/катер Midnight Express FL06354",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за консультирование в сфере информационных технологий по договору №8-02268/41 от 02.01.2028г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по договору процентного займа №Б-00237/82 от 25.06.2023г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "За гостиницу (Россия, г. Якутск)",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Перевод себе",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за Порошок стиральный Персил Color Свежесть от Vernel 3кг по счету 09179444891581792602 от 11 июня 2026г Сумма 3520.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Сумка-тележка на колесах 85х33х27.5см по счету 11076678473092359266 от 14.05.2023г Сумма 4720,00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по догвору купли-продажи №59В-01509 от 22 октября 2027 за виллу №13 по адресу г. Белгород, Почтовая ул., д. 8",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "НДС от Комиссия АКБ \"Первый банк\" (АО) за выполнение функции агента валютного контроля за з/п № 526 от 30 июля 2024 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата по Договору №Е03889/92 от 05 мая 2025г за акт 0390 транспортные услуги Сумма 48800-00Без налога(НДС)",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Покупка орг.техники",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору лизинга №122 от 05.05.2023г, акт приема-передачи 0185 от 02.04.2024. В т.ч. НДС(20%) 691666.66",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Паевой взнос в жилищно-строительный кооператив с целью приобретения права собственности на жилое помещение по адресу г. Нефтекамск, Новоселов ул., д. 10",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "По предвариельному договору №68А-03906 от 17.07.2027 г. за квартиру в ЖК по адресу г. Норильск, Октябрьская ул., д. 23",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата основного долга за период с 12/11/2026 по 08.01.2023г. по Договору 81.103048-БГ от 15.08.2023г. с ОАО \"Второй банк\"",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "За оказание услуг по договору №444 от 15.03.2023",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по договору процентного займа (20%) №75Д-02041 от 20.01.2024 г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Возврат денежных средств по договору займа №15Е-03742 от 14.08.2024 г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата за Варенье Варенька малиновое 380г по счету 80928785960481773755 от 28.01.2025 Сумма 550.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог №10-00194 от 10.07.2024, согл. Сч 0118-27 от 2024-03-20 оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за Шоколад Alpen Gold молочный 80г по счету 16053095664796546475 от 04.07.2026 Сумма 4950.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "За тур.поездку по договору №225 от 23.01.2025г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Комиссия за организацию сделки по дог. лизинга №97-04495. Сумма 28 июня 2023г, в т.ч. НДС 20% 1060.00",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата за Крем Бархатные ручки Питательный для рук с маслом ши 80мл по счету 46699071649869948590 от 15 апреля 2028г Сумма 2610-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Комиссия за организацию сделки по дог. лизинга №А-04797/81. Сумма 2025.05.03, в т.ч. НДС 20% 3470,00",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "За участие в конференции в г. Кемерово по договору №6-00713/25 от 07.11.2024 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "По предвариельному договору №7-01066/38 от 16 января 2026г за квартиру в ЖК по адресу г. Нижний Тагил, Лесная ул., д. 24",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата по договору процентного займа (20%) б/н от 2024-06-17. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата за Козинаки AgroSputnik Богучарские 250г по счету 35859416995176708180 от 27.01.2024г. Сумма 1410.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору №28-04612 от 18 августа 2025, за сырьё для пищевой промышленности в т.ч. НДС 20% 303333-33",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за ж/д, авиабилеты и проживание по счету 43179783222231030064 от 29.04.2028г на основании договора №А-01368/30 от 2028.07.15",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За медицинское обслуживание по договору №Б02801/69 от 04.08.2028г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Чайный напиток Принцесса Ява Каркадэ 80г по счету 65901228486126237910 от 15.04.2027 Сумма 4810.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Маска Koreain Pearl Yeast Activating Mask увлажняющая тканевая с экстрактом жемчуга 25мл по счету 31290464504082050089 от 29 декабря 2025 г. Сумма 1590.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по счету № 0821 от 29.09.2025г. за аренду помещения по договору субаренды №Д04171/55 от 04.10.2023 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата за Средство чистящее Liberhaus лимонная свежесть для унитаза в ассортименте 55г по счету 80579383604739352381 от 05 апреля 2027 Сумма 3360-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Приобретение недвижимости по адресу г. Мытищи, Луговой пер., д. 20 по договору №Г-04497/37 от 16 июня 2024г",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата за Газета КОМСОМОЛЬСКАЯ ПРАВДА еженедельная по счету 60944431645377951587 от 07.05.2023г. Сумма 1240,00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог №9-01230/09 от 29.06.2020, согл. Сч 0519-27 от 27 сентября 2024 г. оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за запасные части для оборудования по счету №0519 от 23.10.2024 г.; Договор №В01214 от 12 декабря 2023г",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Размещение рекламы по счету 88255346241170285047 от 29.08.2023; Договор №Д-01694/34 от 24.08.2024г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по сч. 0042 от 2028.03.19 за пищев. добавку (890,50 ев.) курс 104,4016. В т.ч. НДС 20% - 15 494,94",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "государственная полшина",
+        "mislead_category": "TAX",
+        "predicted_category": "TAX"
+    },
+    {
+        "description": "Оплата по счетам 0885,0886,0887 от 21 сентября 2028 г. (за бетон марки М300)Сумма 9700.00 В т.ч. НДС 20% 1616.66",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по Договору №08-01611 от 08 мая 2025 за акты 0144 и 0445 (транспортные услуги)Сумма 7900.00В т.ч. НДС(20%) 1316.66",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За транспортировку, перевозка грузовым транспортом из г. Южно-Сахалинск в г. Ставрополь по договору №42-01554Е от 22 октября 2024",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За консультации юриста по договору №76-00373 от 30/11/2026г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Бананы Выгодно фасованные по счету 93660848637644303088 от 13/01/2023 Сумма 510-00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Сумка Арт и Дизайн текстильная дизайн в ассортименте по счету 98608091627255617864 от 07.05.2025г Сумма 4920-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору процентного займа (20%) №62Г-02739 от 01.01.2024г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по договору процентного займа (20%) №Б00677 от 01 августа 2023. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата за Хлопья овсяные Селяночка Геркулес 500г по счету 75706274804665162432 от 01.08.2023г. Сумма 4030.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по товарой накладной за 100 штук пачек кофе Lavaza по счету 0000 от 05 июня 2024г .Сумма 23700,00 В т.ч. НДС 20% 3950,0",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Предоставление денежных средств по договору займа №5-00113/89 от 15 деакбря 2024 г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по договору процентного займа (20%) №491 от 23.03.2023г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по сч. 550 от 16.10.2028г, за транспортные услуги НДС не облагается.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Кофе Жокей По-восточному натуральный жареный молотый 250г по счету 49657879066223471439 от 2025.05.30 Сумма 1350-00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по счету #0028 от 13 апреля 2023 за яхту/катер Midnight Express FL06354",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог №02135Е от 25 сентября 2023 г., согл. Сч 0818-27 от 07.02.2024г. оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата по Счету 0915 от 30/11/2024 за банковские сборы Сумма 1810,00 Без налога (НДС)",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата минеральной питьевой воды по счету 72733915549004537247 от 2023-07-23 Сумма 6000.00 без учета НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за ж/д, авиабилеты и проживание по счету 95124941610756708196 от 24.09.2025г на основании договора №03562Д от 05 марта 2026г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата дог №7-00842/63 от за 09/24г.согл.сч 0524 от 25.09.24г.,счет-фактура 0239 от 26.09.2024г.",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Доплата по счету №12Б-01339 от 07.10.2023 аренда помещения в сентября 2024 г. Договор №3-01030/58 от 26.02.2025",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Возврат денежных средств по договору займа №5-00295/55 от 16.08.2024г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "За покупку авиабилетов г. Кемерово - г. Батайск по договору №А04475/93 от 05.10.2025г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по дог.финансовой аренды №Б03500 от 25/03/2024, акт приема-передачи 26 от 04.04.2024г. В т.ч. НДС(20%) 508333-33",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата по акту сверки б/н от 13 июня 2024г (в рамках договора лизинга №74А-04746 от 02.03.2024). В т.ч. НДС(20%) 235000-00",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата за Салфетки Tolli Plus Зеленый чай влажные освежающие 20шт по счету 47240234671080895635 от 11.08.2024г. Сумма 4030.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору №8-00697/51 от 09 октября 2025 частичная оплата за картонСумма 30000,00В тч НДС(20%) 5000,0",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "За медицинское обслуживание по договору №68Г-02159 от 25.05.2026 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Покупка продовольственных товаров",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по сч. 0344 от 28.08.2026 за пищев. добавку (890,50 ев.) курс 104,4016. В т.ч. НДС 20% - 15 494,94",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Ананасы Global Village кольца 580г по счету 10563059949153422430 от 04/07/2027г. Сумма 4900-00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за кофе в зернах по счету 13224816219068868750 от 2023-09-06 Сумма 4130,00 в т.ч. НДС 20% 688,33",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Предоставление денежных средств по договору займа №97Д-04989 от 14/06/2024г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по счет-фактуре 0192,0193,0194 от 06.03.2025 за фитинги,метизы.Сумма 25900.00 В т.ч. НДС 20% 4316.66",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "оплата по счетам 0382, 0204,0142, 0178 за услугиСумма 22.09.2028г.В т.ч. НДС(20%) 25000.00",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по Договору №Е02041 от 13 декабря 2023 г. за акт 0347 транспортные услуги Сумма 42500.00Без налога(НДС)",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Лечение по договору №02301Г от 26 февраля 2026г",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за запчасти по договору поставки №80А-03731 от 09.02.2024 г. (ГБД 0938 АО Автодом Ауди по счету №0031",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Уксус Рестория яблочный 6% 500мл по счету 47999186621888697963 от 27.06.2023 Сумма 1150.00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за ж/д, авиабилеты и проживание по счету 47609071263062583110 от 15/06/2027г. на основании договора №86-04049 от 2027.08.27",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За гостиницу (Россия, г. Великий Новгород)",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За бронирование отеля в г. Иваново по договору №21-01125Б от 2028.02.01",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Окончательный расчет по акту приема-передачи №0753 от 03.03.2024г (договор лизинга №В02475/72 от 14.02.2023г). В т.ч. НДС(20%) 140000.0",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Возмещение расходов на страхование ОСАГО по договору лизинга №1-04654/57 от 30/04/2025 в сумме 44500-00, без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата по дог.финансовой аренды №84Е-03034 от 03.11.2024г., акт приема-передачи 715 от 04 июля 2024 г.. В т.ч. НДС(20%) 555000,0",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Долевое инвестирование в жилищное строительство",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "оплата по счёту № 0189 от 18.08.2028г. за транспортные услугиСумма 2570000-00В т.ч. НДС(20%) 428333-33",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За участие в конференции в г. Миасс по договору б/н от 18.07.2026 г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата Дог №01126Д от 28/11/2022, согл. Сч 0606-27 от 03.11.2024 оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за Средство чистящее Sanfor Белизна 3в1 многофункциональное 700г по счету 79711718719873039052 от 11 янавря 2023 Сумма 4040,00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по счету 0098 от 01.12.2025 за Red Bull. Сумма 41800-00 без учета НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по акту сверки б/н от 03.07.2024 (в рамках договора лизинга №Е03071/99 от 15.09.2023 г.). В т.ч. НДС(20%) 431666,66",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата по договору процентного займа №Д01246 от 28 октября 2023г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по договору процентного займа №04125А от 24.09.2023 г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по дог.финансовой аренды №14-04125В от 23 сентября 2024, акт приема-передачи 742 от 27 октября 2024. В т.ч. НДС(20%) 403333.33",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Предоставление кредита по договору №Д02030 от 12 февраля 2028 г. (приобретение транспортного средства)",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Окончательный расчет по акту приема-передачи №0036 от 12 марта 2024 г. (договор лизинга №36-01737А от 26.11.2025 г.). В т.ч. НДС(20%) 770000.0",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "оплата по счетам 0824, 0889,0834, 0140 за услугиСумма 19/08/2024г.В т.ч. НДС(20%) 20700,00",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Газета ТЕЛЕК PRESSA.RU по счету 72077344041803752862 от 05/03/2023 Сумма 2790.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору №Г00616 от 28 января 2026г, счету 0523 от 28 января 2026г за \"Дымовские колбасы\".Сумма 4660000-00 В т.ч. НДС 20% 776666-66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Мюсли Matti Банан и шоколад 250г по счету 42689526924298859119 от 15 декабря 2027г Сумма 3620-00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Комиссия за организацию сделки по дог. лизинга №02700Г. Сумма 05.02.2025, в т.ч. НДС 20% 1280-00",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Счет на оплату № 0523 от 24 января 2024г.МКР для фильтрпресса. Сумма 31200.00В т.ч. НДС(20%) 5200.0",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата Дог №Б04079 от 29.11.2020г, согл. Сч 0858-27 от 25.06.2024 оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за программирование блока фары Mercedes VIN A007642266. Работы выполнялись по з/н б/н",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Губка для обуви Econta черная 25г по счету 06288799891185339979 от 07 сентября 2023 Сумма 540.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Конфеты Frutzone Ананас, лимон, малина, черная смородина жевательные по счету 52760320108654233103 от 06 июня 2026г Сумма 4690,00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору №Б04211 от 05.05.2023г., за сырьё для пищевой промышленности в т.ч. НДС 20% 251666.66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за запчасти по договору поставки №3-01701/11 от 09.03.2024 г. (ГБД 0032 АО Автодом Ауди по счету №0792",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору 95.310628-ВД от 11 мая 2027г, счету 0294 от 11 мая 2027г за \"Дымовские колбасы\".Сумма 1120000.00 В т.ч. НДС 20% 186666.66",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по договору процентного займа 82.203534-ВД от 15/01/2024г.. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "{В681780}3ачисление средств на текущий счет на основании Распоряжения о списании ин.валюты с трансферного счета 50640440478084101455",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата за консультирование в сфере информационных технологий по договору б/н от 04.04.2026",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по Договору №02803Е от 28 июля 2023 г.за бухгалтерское сопровождение в счет задолженности",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Предоставление кредита по договору №473 от 05 ноября 2027 г. (приобретение транспортного средства)",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата по сч. 493 от 04.11.2026, за транспортные услуги НДС не облагается.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата за Шампунь и гель для душа Рексона men Мужской 2в1 горный лёд 490мл по счету 29102706048197277505 от 2027-04-10 Сумма 3090-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Паевой взнос в жилищно-строительный кооператив с целью приобретения права собственности на жилое помещение по адресу г. Якутск, Первомайская ул., д. 23",
+        "mislead_category": "TAX",
+        "predicted_category": "REAL_ESTATE"
+    },
+    {
+        "description": "Оплата за Размещение рекламы по счету 49841077381099834911 от 28.04.2024 г.; Договор №63-00956В от 11.10.2025г.",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по Договору 64.493127-ВГ от 2027.07.02 за акты 0297 и 0215 (транспортные услуги)Сумма 19500-00В т.ч. НДС(20%) 3250-00",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "За транспортировку, перевозка грузовым транспортом из г. Домодедово в г. Электросталь по договору №233 от 2024.12.05",
+        "mislead_category": "TAX",
+        "predicted_category": "SERVICE"
+    },
+    {
+        "description": "Оплата по договору процентного займа №Б01169 от 21.01.2024г. Без НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "LOAN"
+    },
+    {
+        "description": "Оплата по договору №В02479 от 22.11.2027г. частичная оплата за картонСумма 25200-00В тч НДС(20%) 4200-00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата по счету #0560 от 02 июня 2023 г. за яхту/катер Midnight Express FL06354",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Комиссия АКБ \"Первый банк\" (АО) за выдачу носителей ключей ЭП по системе \"Интернет-Клиент\". НДС не облагается",
+        "mislead_category": "TAX",
+        "predicted_category": "BANK_SERVICE"
+    },
+    {
+        "description": "Оплата минеральной питьевой воды по счету 86545455166580297407 от 11/11/2023 Сумма 20700.00 без учета НДС",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Цикорий Большая чашка черничный растворимый 85г по счету 67110569572684942000 от 28/10/2025г. Сумма 1850,00",
+        "mislead_category": "TAX",
+        "predicted_category": "FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Средство для мытья посуды Fairy сочный лимон 450мл по счету 44093969034155312703 от 08 мая 2025 Сумма 1560.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Оплата за Порошок стиральный Ariel Color automat 3кг по счету 62209440936939539482 от 02.08.2028 Сумма 3990.00",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    },
+    {
+        "description": "Окончательный расчет по акту приема-передачи №0949 от 09/02/2024 (договор лизинга №Е04377/64 от 21.02.2023). В т.ч. НДС(20%) 786666,66",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата Дог №321 от 2020.06.01, согл. Сч 0205-27 от 2024.05.03 оплата за сброс загрязняющих веществ",
+        "mislead_category": "TAX",
+        "predicted_category": "NOT_CLASSIFIED"
+    },
+    {
+        "description": "Оплата по дог.финансовой аренды №245 от 19.12.2023, акт приема-передачи 949 от 17.12.2024 г.. В т.ч. НДС(20%) 298333,33",
+        "mislead_category": "TAX",
+        "predicted_category": "LEASING"
+    },
+    {
+        "description": "Оплата за запчасти по договору поставки №2-02582/75 от 11.04.2024 (ГБД 0875 АО Автодом Ауди по счету №0093",
+        "mislead_category": "TAX",
+        "predicted_category": "NON_FOOD_GOODS"
+    }
+]
