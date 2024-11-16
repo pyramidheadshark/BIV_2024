@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "required": ["index", "category"],
+    "properties": {
+        "index": {
+            "type": "integer"
+        },
+        "category": {
+            "type": "string",
+            "format": "enum",
+            "enum": [
+                "SERVICE", "NON_FOOD_GOODS", "LOAN",
+                "NOT_CLASSIFIED", "LEASING", "FOOD_GOODS",
+                "BANK_SERVICE", "TAX", "REAL_ESTATE"
+            ]
+        }
+    }
+}
