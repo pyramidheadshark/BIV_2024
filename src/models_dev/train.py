@@ -39,7 +39,7 @@ def main():
     args = parser.parse_args()
 
     # Загрузка данных
-    data = pd.read_csv(args.file_path, sep='\t', header=None, names=['id', 'date', 'amount', 'description', 'category'])
+    data = pd.read_csv(args.file_path, sep='\t', header=None, names=['date', 'amount', 'description', 'category'])
     train_data, val_data = train_test_split(data, test_size=0.2, stratify=data['category'], random_state=42)
 
     train_data = preprocess_data(train_data)
