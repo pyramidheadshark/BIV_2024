@@ -28,8 +28,3 @@ if __name__ == "__main__":
 
     convert_and_quantize_to_onnx(args.onnx_model_path, args.save_dir, args.max_length)
 
-"""
-!python3 ../src/models_dev/quantize.py --onnx_model_path ../models/onnx_model/model.onnx \
-                                --save_dir ../models/onnx_model \
-                                --max_length 128
-"""

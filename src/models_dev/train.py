@@ -96,12 +96,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-python3 train.py --file_path ../data/raw/payments_training.tsv
-                 --model_name ai-forever/ru-en-RoSBERTa
-                 --output_dir ./results
-                 --batch_size 16
-                 --epochs 3
-                 --learning_rate 5e-5
-                 --save_path ../models/trained_model
-"""

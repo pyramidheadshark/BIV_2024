@@ -47,7 +47,6 @@ def main():
         batch_predictions = infer_batch(session, tokenized_batch)
         predictions.extend(batch_predictions)
 
-    # Save predictions
     data['predicted_category'] = predictions
     data[['id', 'predicted_category']].to_csv(args.output_file, sep='\t',  index=False)
     print(f"Predictions saved to {args.output_file}")
@@ -55,11 +54,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-!python3 ../src/models_dev/q_infer.py --file_path ../data/raw/payments_main.tsv \
-                 --model_path ../models/onnx_model/model_quantized.onnx \
-                 --tokenizer_path ../models/onnx_model \
-                 --output_file ../data/predictions.tsv \
-                 --batch_size 32 \
-                 --max_length 128
-"""
+

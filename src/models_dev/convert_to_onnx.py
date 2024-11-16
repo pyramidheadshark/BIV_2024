@@ -22,7 +22,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-python convert_to_onnx.py --model_path <path_to_your_model> --onnx_path <path_to_save_onnx_model>
-
-"""
