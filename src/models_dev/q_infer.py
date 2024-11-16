@@ -39,6 +39,19 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.tokenizer_path)
     session = load_onnx_model(args.model_path)
 
+
+    index_to_category = {
+        0: 'BANK_SERVICE',
+        1: 'FOOD_GOODS',
+        2: 'LEASING',
+        3: 'LOAN',
+        4: 'NON_FOOD_GOODS',
+        5: 'NOT_CLASSIFIED',
+        6: 'REALE_STATE',
+        7: 'SERVICE',
+        8: 'TAX'
+    }
+
     # Tokenize and batch data
     predictions = []
     for i in tqdm(range(0, len(texts), args.batch_size), desc="Inferencing"):
@@ -47,8 +60,9 @@ def main():
         batch_predictions = infer_batch(session, tokenized_batch)
         predictions.extend(batch_predictions)
 
-    data['predicted_category'] = predictions
-    data[['id', 'predicted_category']].to_csv(args.output_file, sep='\t',  index=False)
+    data['predicted_category'] = [index_to_category[idx] for idx in predictions]
+
+    data[['id', 'predicted_category']].to_csv(args.output_file, header=None, sep='\t',  index=False)
     print(f"Predictions saved to {args.output_file}")
 
 if __name__ == "__main__":
