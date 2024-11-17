@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from tqdm import tqdm
 
 def preprocess_data(df):
-    df['text'] = df.apply(lambda x: f"{x['date']} [SEP] {x['amount']} [SEP] {x['description']}", axis=1)
+    df['text'] = df.apply(lambda x: f"{x['description']}", axis=1)
     return df['text'], df['category']
 
 def tokenize_data(batch, tokenizer, max_length):
