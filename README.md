@@ -1,4 +1,5 @@
 # rubert-turbo-payments
+Быстрая модель BERT для мультиклассовой классификации платежей. Модель основана на [sergeyzh/rubert-tiny-turbo](https://huggingface.co/sergeyzh/rubert-tiny-turbo) - имеет аналогичные размеры контекста (2048), эмбеддинга (312) и быстродействие
 
 ## Сcылки на Docker Image
 # *[(ссылка на DockerHub)](https://hub.docker.com/repository/docker/pyramidheadshark/ruberta_turbo_payments/general)*
