@@ -26,7 +26,7 @@
 Чтобы запустить модель, введите
 
 ```bash
-  docker run --rm -v [полный путь к директории для контейнера]:/app/data rubert_turbo_payments
+  docker run --rm -v [полный путь к директории для контейнера]:/data rubert_turbo_payments
 ```
 
 
