@@ -1,10 +1,12 @@
 # rubert-turbo-payments
 
-## Сcылки на docker
+## Сcылки на Docker Image
 # *[(ссылка на DockerHub)](https://hub.docker.com/repository/docker/pyramidheadshark/ruberta_turbo_payments/general)*
 
 или
-# [(ссылка на GoogleDrive)](https://drive.google.com/drive/folders/18iFmekzYOeHS3Kw9TsWq0fyMfcaOmE3-?usp=sharing)
+# *[(ссылка на GoogleDrive)](https://drive.google.com/drive/folders/18iFmekzYOeHS3Kw9TsWq0fyMfcaOmE3-?usp=sharing)*
+
+---
 
 ## Установка
 
