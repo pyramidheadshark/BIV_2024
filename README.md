@@ -29,7 +29,7 @@
 Чтобы запустить модель, создайте директорию для контейнера и в папку data поместите датасет, а затем введите
 
 ```bash
-  docker run --rm -v [полный путь к директории для контейнера]/data:/app/data rubert_turbo_payments
+  docker run --rm -v [полный путь к директории для контейнера]\data:/app/data rubert_turbo_payments
 ```
 
 
