@@ -46,4 +46,25 @@
 
 
 
+## Пример
+
+Файл датаета в:
+`/goat/test/data/payments_main.tsv`
+
+Запускаем:
+```bash
+~/goat/test$ sudo docker pull pyramidheadshark/ruberta_turbo_payments
+...
+
+~/goat/test$ sudo docker run --rm -v /home/grafstor/goat/test/data:/app/data pyramidheadshark/ruberta_turbo_payments
+Inferencing: 100%|██████████| 391/391 [02:09<00:00,  3.01it/s]
+Predictions saved to data/predictions.tsv
+```
+
+Результат в
+`/goat/test/data/predictions.tsv`
+
+
+
+
 
