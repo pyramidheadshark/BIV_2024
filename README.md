@@ -9,10 +9,16 @@
 
 ## Установка
 
-Установка с помощью
+Прямо из репозитория
 
 ```bash
-  штуки
+  docker build -t rubert_turbo_payments .
+```
+или
+Используя готовый Image
+```bash
+  cd [директория с rubert_turbo_payments.tar]
+  docker load -i rubert_turbo_payments.tar
 ```
     
 ## Развёртывание
@@ -20,7 +26,7 @@
 Чтобы запустить модель, введите
 
 ```bash
-  thingies
+  docker run --rm -v [полный путь к директории для контейнера]:\app\data rubert_turbo_payments
 ```
 
 
