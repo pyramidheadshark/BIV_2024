@@ -18,7 +18,7 @@
 или
 
 Пользуясь DockerHub
-*[(ссылка на DockerHub)](https://drive.google.com/file/d/1BUFAa7ZMXkA29mSZ9cyHNu1gikIuKbgd/view?usp=drive_link)*
+*[(ссылка на DockerHub)](https://hub.docker.com/repository/docker/pyramidheadshark/ruberta_turbo_payments/general)*
 
 ```bash
   docker pull pyramidheadshark/ruberta_turbo_payments
