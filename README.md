@@ -1,5 +1,5 @@
-![Static Badge](https://img.shields.io/badge/model_on_hugginface-link-black?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=%23FFD21E&color=azure&link=https%3A%2F%2Fhuggingface.co%2Fpyramidheadshark%2Frubert-turbo-payments) 
-![Static Badge](https://img.shields.io/badge/License-Apache_2.0-%238FBC8F?style=for-the-badge&logo=apache&link=https%3A%2F%2Fwww.apache.org%2Flicenses%2FLICENSE-2.0)
+[![Static Badge](https://img.shields.io/badge/model_on_hugginface-link-black?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=%23FFD21E&color=azure&link=https://huggingface.co/pyramidheadshark/rubert-turbo-payments)](https://huggingface.co/pyramidheadshark/rubert-turbo-payments)
+[![Static Badge](https://img.shields.io/badge/License-Apache_2.0-%238FBC8F?style=for-the-badge&logo=apache&link=https://www.apache.org/licenses/LICENSE-2.0)](https://www.apache.org/licenses/LICENSE-2.0)
 # rubert-turbo-payments
 
 **Быстрая модель BERT для мультиклассовой классификации платежей**
