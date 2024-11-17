@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score, f1_score
 
 def preprocess_data(df):
-    df['text'] = df.apply(lambda x: f"{x['date']} [SEP] {x['amount']} [SEP] {x['description']}", axis=1)
+    df['text'] = df.apply(lambda x: f"{x['description']}", axis=1)
     df = df[['text', 'category']]
     
     df['category'] = df['category'].astype('category').cat.codes

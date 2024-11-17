@@ -6,7 +6,7 @@ import numpy as np
 from tqdm import tqdm
 
 def preprocess_data(df):
-    df['text'] = df.apply(lambda x: f"{x['date']} [SEP] {x['amount']} [SEP] {x['description']}", axis=1)
+    df['text'] = df.apply(lambda x: f"{x['description']}", axis=1)
     return df['text']
 
 def tokenize_data(batch, tokenizer, max_length):
@@ -38,7 +38,6 @@ def main():
     # Load tokenizer and ONNX model
     tokenizer = AutoTokenizer.from_pretrained(args.tokenizer_path)
     session = load_onnx_model(args.model_path)
-
 
     index_to_category = {
         0: 'BANK_SERVICE',
