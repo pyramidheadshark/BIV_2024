@@ -17,7 +17,17 @@
 
 или
 
-Используя готовый Image
+Пользуясь DockerHub
+*[(ссылка на DockerHub)](https://drive.google.com/file/d/1BUFAa7ZMXkA29mSZ9cyHNu1gikIuKbgd/view?usp=drive_link)*
+
+```bash
+  docker pull pyramidheadshark/ruberta_turbo_payments
+```
+
+или
+
+С помощью GoogleDrive
+*[(ссылка на GoogleDrive)](https://drive.google.com/file/d/1BUFAa7ZMXkA29mSZ9cyHNu1gikIuKbgd/view?usp=drive_link)*
 
 ```bash
   cd [директория с rubert_turbo_payments.tar]
