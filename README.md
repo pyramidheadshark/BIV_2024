@@ -14,8 +14,11 @@
 ```bash
   docker build -t rubert_turbo_payments .
 ```
+
 или
+
 Используя готовый Image
+
 ```bash
   cd [директория с rubert_turbo_payments.tar]
   docker load -i rubert_turbo_payments.tar
@@ -23,11 +26,12 @@
     
 ## Развёртывание
 
-Чтобы запустить модель, введите
+Чтобы запустить модель, создайте директорию для контейнера и в папку data поместите датасет, а затем введите
 
 ```bash
-  docker run --rm -v [полный путь к директории для контейнера]:/data rubert_turbo_payments
+  docker run --rm -v [полный путь к директории для контейнера]/data:/app/data rubert_turbo_payments
 ```
+
 
 
 
