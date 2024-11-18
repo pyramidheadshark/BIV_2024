@@ -164,3 +164,5 @@ cython_debug/
 *.zip
 models/onnx_model/model.onnx
 tmp*
+/notebooks/dataset_*.ipynb
+/data/processed/reports
